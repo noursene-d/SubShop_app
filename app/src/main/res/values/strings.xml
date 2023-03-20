@@ -1,0 +1,44 @@
+<resources>
+    /*++++++++++++++++++++++++++Welcome Screen Resources++++++++++++++++++++++++++*/
+    <string name="app_name">Lab5</string>
+    <string name="sandwich_image_description">Sandwich image</string>
+    <string name="order_now_button">Order Now!</string>
+    <string name="previous_orders">Previous Orders</string>
+    <string name="welcome_screen_title">Noursene\'s Sub Sandwich</string>
+    /*++++++++++++++++++++++++++Order Screen Resources++++++++++++++++++++++++++*/
+    <string name="sandwich_type_title">Build your Sub</string>
+    //Sandwich Type
+    <string name="sandwich_type_subtitle">Sandwich Type</string>
+    <string name="philly">Philly</string>
+    <string name="blt">BLT</string>
+    <string name="veggie">Veggie</string>
+    //Bread Type
+    <string name="bread_type_title">Bread Type</string>
+    <string name="white">White</string>
+    <string name="whole_wheat">Whole Wheat</string>
+    //Toppings
+    <string name="toppings_title">Toppings</string>
+    <string name="toppings_subtitle">For Each Topping, Add $0.50</string>
+    <string name="bacon">Bacon</string>
+    <string name="cheese">Cheese</string>
+    <string name="hot_sauce">Hot Sauce</string>
+    <string name="mayo">Mayo</string>
+    <string name="mustard">Mustard</string>
+    <string name="onions">Onions</string>
+    <string name="banana_peppers">Banana Peppers</string>
+    <string name="extra_bacon">Extra Bacon</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="mushrooms">Mushrooms</string>
+    <string name="olives">Olives</string>
+    <string name="peppers">Peppers</string>
+    //Submit Button and Done Buttons
+    <string name="done">Done</string>
+    <string name="submit">submit</string>
+    <string name="back_button">Back</string>
+    //Screen titles
+    <string name="welcome_screen">Welcome Screen</string>
+    <string name="order_screen">Order Screen</string>
+    <string name="receipt_screen">Receipt Screen</string>
+    //Subtotal price
+    <string name="subtotal_price">Subtotal %s</string>
+</resources>
